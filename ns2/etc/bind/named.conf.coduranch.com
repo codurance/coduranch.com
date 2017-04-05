@@ -1,5 +1,5 @@
 zone "coduranch.com" IN {
         type slave;
-        masters { 34.249.107.85; };
+        masters { 52.19.153.82; };
 };
 
